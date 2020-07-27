@@ -13,3 +13,5 @@ Dependencies:
  - Pandas-datareader
  - scipy
  - seaborn
+
+![Portfolio](https://github.com/CassidyPeter/Portfolio-analysis/blob/master/Portfolio_analysis.png?raw=true)
