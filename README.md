@@ -13,7 +13,6 @@ A sample set of stock tickers and weights is included. Alternatively, fresh port
 Dependencies:
  - Matplotlib
  - Pandas-datareader
- - scipy
- - seaborn
+ - numpy
 
-![Portfolio](https://github.com/CassidyPeter/Portfolio-analysis/blob/master/Portfolio_analysis.png?raw=true)
+![Portfolio](https://github.com/CassidyPeter/Portfolio-analysis/blob/master/Portfolio_analysis_new.png?raw=true)
