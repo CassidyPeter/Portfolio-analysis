@@ -10,9 +10,4 @@ The Alpha and Beta values are found using the Capital Asset Pricing Model applie
 A sample set of stock tickers and weights is included. Alternatively, fresh portfolio data can be entered.
 
 
-Dependencies:
- - Matplotlib
- - Pandas-datareader
- - numpy
-
 ![Portfolio](https://github.com/CassidyPeter/Portfolio-analysis/blob/master/Portfolio_analysis_new.png?raw=true)
